@@ -33,6 +33,6 @@ A piece that I've been learning recently [Uchiage Hanabi - Fireworks (2017) Pian
 - [x] Is this cool?
 - [x] Is this new?
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![This is indeed a picture](https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg "Don't doubt it, it is a picture")
 
 This is an image, yes.
